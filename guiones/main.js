@@ -12,7 +12,8 @@ myImage  .  onclick   =   function  (  )   {
 }
 
 // Código de mensaje de bienvenida personalizado
-
+< botón > Cambiar usuario </ botón >
+    < script  src = " scripts / main.js " > </ script >
 deje   myButton   =   documento  .  querySelector  (  'botón'  )  ;
 deje   myHeading   =   documento  .  querySelector  (  'h1'  )  ;
 
